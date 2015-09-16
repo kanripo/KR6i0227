@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛為勝光天子說王法經
+#+DATE: 2015-08-30 20:13:25.153409
+#+PROPERTY: JUAN 0
